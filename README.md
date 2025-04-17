@@ -93,6 +93,8 @@ Symmetric Searchable Encryption](http://home.cse.ust.hk/~jgc/Index_files/New-Con
 - [Lacharité et al. 2017], [Improved Reconstruction Attacks on Encrypted Data Using Range Query Leakage](https://eprint.iacr.org/2017/701)
 - [Ning et al. 2018], [Passive Attacks Against Searchable Encryption](https://ieeexplore.ieee.org/abstract/document/8443434/)
 - [Grubbs et al. 2019], [Learning to Reconstruct: Statistical Learning Theory and Encrypted Database Attacks](https://eprint.iacr.org/2019/011.pdf)
+- [Kornaropoulos et al. 2021], [Response-Hiding Encrypted Ranges: Revisiting Security via Parametrized Leakage-Abuse Attacks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9519465)
+-  
 
 
 
